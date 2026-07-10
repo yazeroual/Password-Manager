@@ -25,7 +25,7 @@ A command-line password manager built with Python. Encrypts and stores passwords
 - `getpass` – Secure password input (hidden text)
 - `json` – File storage
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 python password_manager.py
